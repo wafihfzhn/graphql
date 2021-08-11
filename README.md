@@ -1,6 +1,4 @@
-# README
-
-GraphQL API
+# GraphQL API
 
 ## Backend
 Ruby On Rails
